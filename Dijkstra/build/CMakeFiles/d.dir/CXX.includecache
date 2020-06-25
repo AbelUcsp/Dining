@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/abel/Escritorio/borradorEDA/Dijkstra/source/main.cpp
+bits/stdc++.h
+-
+mutex
+-
+random
+-
+thread
+-
+
