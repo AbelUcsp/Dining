@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/abel/Escritorio/borradorEDA/Dijkstra/source/main.cpp
+/home/abel/Escritorio/Dining/Dijkstra/source/main.cpp
 bits/stdc++.h
 -
 mutex
@@ -14,5 +14,13 @@ mutex
 random
 -
 thread
+-
+condition_variable
+-
+queue
+-
+thread
+-
+vector
 -
 

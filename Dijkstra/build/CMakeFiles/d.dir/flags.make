@@ -6,5 +6,5 @@ CXX_FLAGS =   -std=c++17
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/abel/Escritorio/borradorEDA/Dijkstra/$(CMAKE_CURRENT_SOURCE_DIR)/source 
+CXX_INCLUDES = -I/home/abel/Escritorio/Dining/Dijkstra/$(CMAKE_CURRENT_SOURCE_DIR)/source 
 

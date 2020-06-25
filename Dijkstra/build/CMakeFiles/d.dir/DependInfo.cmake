@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/abel/Escritorio/borradorEDA/Dijkstra/source/main.cpp" "/home/abel/Escritorio/borradorEDA/Dijkstra/build/CMakeFiles/d.dir/source/main.cpp.o"
+  "/home/abel/Escritorio/Dining/Dijkstra/source/main.cpp" "/home/abel/Escritorio/Dining/Dijkstra/build/CMakeFiles/d.dir/source/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

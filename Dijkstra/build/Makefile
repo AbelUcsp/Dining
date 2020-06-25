@@ -68,10 +68,10 @@ RM = /snap/cmake/372/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/abel/Escritorio/borradorEDA/Dijkstra
+CMAKE_SOURCE_DIR = /home/abel/Escritorio/Dining/Dijkstra
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/abel/Escritorio/borradorEDA/Dijkstra/build
+CMAKE_BINARY_DIR = /home/abel/Escritorio/Dining/Dijkstra/build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -100,9 +100,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/abel/Escritorio/borradorEDA/Dijkstra/build/CMakeFiles /home/abel/Escritorio/borradorEDA/Dijkstra/build/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/abel/Escritorio/Dining/Dijkstra/build/CMakeFiles /home/abel/Escritorio/Dining/Dijkstra/build/CMakeFiles/progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/abel/Escritorio/borradorEDA/Dijkstra/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/abel/Escritorio/Dining/Dijkstra/build/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
