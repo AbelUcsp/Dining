@@ -1,3 +1,0 @@
-/home/abel/Escritorio/Dining/Dijkstra/build/CMakeFiles/rebuild_cache.dir
-/home/abel/Escritorio/Dining/Dijkstra/build/CMakeFiles/d.dir
-/home/abel/Escritorio/Dining/Dijkstra/build/CMakeFiles/edit_cache.dir
